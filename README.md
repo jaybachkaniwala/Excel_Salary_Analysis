@@ -148,7 +148,7 @@ The following two queries were created:
 - This serves as a guide to the prevalent skills in the industry, and to indicate the training they should undertake so they can focus on the most impactful technologies that employers value, which will allow candidates to remain competitive and in-demand.
 - SQL and Python are both seen in over 50% of job postings and hence should serve as a foundational layer upon which to build and specialize.
 
-## 4️⃣ What are the associated salaries with these highly requsted skills?
+## 4️⃣ What are the associated salaries with these highly requested skills?
 
 ### 📊 Skill: Advanced Charts (Pivot Chart)
 
